@@ -76,7 +76,7 @@ function MainContent({
       <div className="text-center mt-4 text-muted">
         Weather Prediction App by
         <a
-          href="https://github.com/"
+          href="https://github.com/purna519/weather-app"
           target="_blank"
           rel="noopener noreferrer"
         >
